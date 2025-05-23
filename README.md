@@ -13,7 +13,7 @@ A simple web application that allows users to search for Pokémon by name or ID 
 
 ## Demo
 
-![App Screenshot](https://1000logos.net/wp-content/uploads/2017/05/Pokemon-Logo.png)
+[Live Demo](https://tobilobacodes00.github.io/pokemon-search-app/)
 
 ## Getting Started
 
